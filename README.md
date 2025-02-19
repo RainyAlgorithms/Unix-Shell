@@ -1,4 +1,4 @@
-# Tiny Shell (tsh) - Assignment 2
+# Tiny Unix Shell (tsh)
 
 ## Overview
 This project involves implementing a small Unix shell (Tiny Shell - `tsh`) to gain hands-on experience with process control, signals, and pipes. The shell provides basic job control, input/output redirection, and signal handling.
